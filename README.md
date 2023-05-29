@@ -5,9 +5,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/graciellenascimento/angular-blog)
 ![Github repo size](https://img.shields.io/github/repo-size/graciellenascimento/angular-blog)
 
-![Capa do Projeto](https://source.unsplash.com/featured/1280x720)
+![Capa do Projeto](https://i.ibb.co/LtTKY5b/localhost-4200-2.png)
 
-Um blog feito a partir do bootcamp Potência Tech Angular Developer - Powered by iFood, feito através da plataforma [DIO](https://web.dio.me/) (Digital Innovation One). O projeto foi feito utilizando a framework Angular a partir do template .
+Um blog feito a partir do bootcamp Potência Tech Angular Developer - Powered by iFood, realizado através da plataforma [DIO](https://web.dio.me/) (Digital Innovation One). O projeto foi feito utilizando a framework Angular a partir do layout [Blog Layout](https://dribbble.com/shots/18089191-Blog-Layout), postado no dribbble pelo usuário [Dwinawan](https://dribbble.com/dwinawan).
 
 ## Pré-requisitos
 
